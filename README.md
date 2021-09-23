@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [http://drumbi.eu/03-FrontendMentor/05-four-card-feature-section-master/](http://drumbi.eu/03-FrontendMentor/05-four-card-feature-section-master/)
+- Live Site URL: [http://drumbi.eu/03-FrontendMentor/05-four-card-feature-section-master/](http://drumbi.eu/03-FrontendMentor/05-four-card-feature-section-master/)
 
 ## My process
 
